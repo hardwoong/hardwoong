@@ -53,6 +53,17 @@
 </div>
 
 <br>
+<br>
+
+<div align="center">
+
+![hardwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardwoong&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardwoong&layout=compact)
+
+</div>
+
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
