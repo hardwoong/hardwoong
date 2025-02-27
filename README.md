@@ -65,6 +65,12 @@
 
 <br>
 
+<div aling="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+</div>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@hardwoong">
