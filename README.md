@@ -6,10 +6,10 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp
 </div>
 
 <div align="center">
@@ -57,30 +57,14 @@
 
 <div align="center">
 
-![hardwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardwoong&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardwoong&layout=compact)
+![hardwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardwoong&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardwoong&layout=compact)
 
 <br>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dew0430)](https://solved.ac/dew0430/)
-
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dew0430&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dew0430)](https://solved.ac/dew0430/) &nbsp; ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dew0430&theme=dark)
 
 <br>
-
 </div>
-
-<br>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hardwoong?pet-id=1" width="1000" height="120"/>
-</a>
-
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
