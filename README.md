@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![hardwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardwoong&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardwoong&layout=compact)
+![hardwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardwoong&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardwoong&layout=compact&count_private=true)
 
 <br>
 
