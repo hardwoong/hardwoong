@@ -66,6 +66,16 @@
 <br>
 </div>
 
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/hardwoong"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@hardwoong">
